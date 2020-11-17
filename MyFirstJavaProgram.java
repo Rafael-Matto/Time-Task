@@ -19,6 +19,7 @@ public class MyFirstJavaProgram {
         System.out.println("Hi, Thayene here");
         System.out.println("Hi Thayene line 2");
         System.out.println("hi guys")
+        System.out.println("Hi, Rafael is here");
         
     }
     

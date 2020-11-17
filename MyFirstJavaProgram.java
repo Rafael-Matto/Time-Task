@@ -15,7 +15,9 @@ public class MyFirstJavaProgram {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        static void Tamiris(){
+            System.out.println ("This is Tamiris's code as an example");
+         }
     }
     
 }

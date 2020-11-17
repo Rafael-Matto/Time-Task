@@ -11,6 +11,12 @@ package myfirstjavaprogram;
  */
 public class MyFirstJavaProgram {
 
+    static void thayeneMethod(){
+        // author: Thayene Lorens
+
+        System.out.println("This is Thayene's code");
+    }    
+        
     /**
      * @param args the command line arguments
      */
@@ -18,6 +24,8 @@ public class MyFirstJavaProgram {
         System.out.println("Hello World");
         System.out.println("hi guys")
         System.out.println("Hi, Rafael is here");
+
+        thayeneMethod();
         
     }
     

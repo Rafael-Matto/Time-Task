@@ -24,9 +24,13 @@ public class MyFirstJavaProgram {
         System.out.println("Hello World");
         System.out.println("hi guys")
         System.out.println("Hi, Rafael is here");
+<<<<<<< Updated upstream
         System.out.println("Hi,is everyone here?")
         thayeneMethod();
         
+=======
+        System.out.println(" Hello,is  everybody here?")
+>>>>>>> Stashed changes
     }
     
 }

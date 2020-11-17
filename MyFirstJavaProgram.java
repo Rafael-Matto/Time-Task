@@ -16,8 +16,10 @@ public class MyFirstJavaProgram {
      */
     public static void main(String[] args) {
         System.out.println("Hello World");
-        System.out.println("Type something, please");
-
+        System.out.println("Hi, Thayene here");
+        System.out.println("Hi Thayene line 2");
+        System.out.println("hi guys")
+        
     }
     
 }

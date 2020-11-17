@@ -18,6 +18,8 @@ public class MyFirstJavaProgram {
         System.out.println("Hello World");
         System.out.println("Hi, Thayene here");
         System.out.println("Hi Thayene line 2");
+        system.out.println("Try to make a change to the file");
+
     }
     
 }

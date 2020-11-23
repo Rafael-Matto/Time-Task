@@ -16,7 +16,15 @@ public class MyFirstJavaProgram {
 
         System.out.println("This is Thayene's code");
     }    
-        
+      static void erickMethod() {
+      //this command will calculed Body mass index
+          System.out.println("Please enter your height: ");
+          height
+          
+          System.out.println("Please enter your height: ");
+          bmi ==  weight/(height *height);
+          
+      } 
     /**
      * @param args the command line arguments
      */
@@ -27,7 +35,8 @@ public class MyFirstJavaProgram {
         System.out.println("Hi, Tamiris here, late but here);
 <<<<<<< Updated upstream
         System.out.println("Hi,is everyone here?")
-        thayeneMethod();
+        thayeneMethod();[
+        erickMethod();
         
 =======
         System.out.println(" Hello,is  everybody here?")

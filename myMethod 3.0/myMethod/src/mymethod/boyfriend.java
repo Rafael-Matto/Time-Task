@@ -130,16 +130,16 @@ public class boyfriend {
       
         switch(status){
             case 1:
-                System.out.println("single");   
+                System.out.println("single\n");   
             break;
             case 2:
-                System.out.println("married");   
+                System.out.println("married\n");   
             break;
             case 3:
-                System.out.println("divorced");   
+                System.out.println("divorced\n");   
             break;
             default:
-                System.out.println("I prefered not to say");  
+                System.out.println("I prefered not to say\n");  
                 
            // return age; 
         

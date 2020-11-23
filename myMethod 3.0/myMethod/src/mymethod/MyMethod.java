@@ -44,9 +44,7 @@ public class MyMethod {
      The loop ends when user types letters only.*/
     while(!word.matches("[a-zA-Z- ',]+")){
         
-           System.out.println("His name has to be text only.");
-           
-           System.out.println("Enter the name of first boyfriend here: \n");
+           System.out.println("His name has to be text only.\nEnter the name of first boyfriend here: \n");
            
            word = input.nextLine();
            

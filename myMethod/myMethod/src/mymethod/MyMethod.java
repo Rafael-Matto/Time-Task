@@ -38,7 +38,7 @@ public class MyMethod {
         
         age.setAge(answer);
         Nationality();
-         
+
     }
     
 }

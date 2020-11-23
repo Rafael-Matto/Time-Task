@@ -111,7 +111,7 @@ public class boyfriend {
             System.out.println("He is from " +country);
         }
         else{
-            System.out.println("The number is not a country, try again");
+            System.out.println("This is not a country!");
         }
       }catch (Exception e){
        }
@@ -120,7 +120,7 @@ public class boyfriend {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
     static int status() {
-        // TODO code application logic here
+        
         //String status;
         Scanner mkb = new Scanner(System.in);
         
@@ -146,4 +146,8 @@ public class boyfriend {
         } 
          return 0;
      }
-}
+     public static void closure(){
+       
+       System.out.println("And that's a little bit of my story\nTo be continued!");
+   }
+ }

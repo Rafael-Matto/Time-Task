@@ -74,6 +74,7 @@ public class MyMethod {
     }
        Nationality ();
        status();
+       closure();
       }
     } 
 

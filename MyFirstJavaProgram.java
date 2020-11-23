@@ -18,10 +18,13 @@ public class MyFirstJavaProgram {
     }    
       static void erickMethod() {
       //this command will calculed Body mass index
+          int height, weight;
+          double bmi;
           System.out.println("Please enter your height: ");
-          height
+          height = Integer.parseInt(myKB.readLine()); 
           
           System.out.println("Please enter your height: ");
+          weight = Integer.parseInt(myKB.readLine()); 
           bmi ==  weight/(height *height);
           
       } 
@@ -35,7 +38,6 @@ public class MyFirstJavaProgram {
         System.out.println("Hi, Tamiris here, late but here);
 <<<<<<< Updated upstream
         System.out.println("Hi,is everyone here?")
-        thayeneMethod();[
         erickMethod();
         
 =======

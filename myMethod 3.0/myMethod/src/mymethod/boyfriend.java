@@ -147,11 +147,3 @@ public class boyfriend {
          return 0;
      }
 }
-   
-/* 
-1. Nome (Thayene)
-2. Idade na época do namoro. (Thayene)
-3. Nacionalidade. (Rafael)
-4. Duração do relacionamento (???)
-5. Estado Civil atual seu ou caso do beijo. (case/switch). (Marco)
-*/

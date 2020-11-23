@@ -24,6 +24,7 @@ public class MyFirstJavaProgram {
         System.out.println("Hello World");
         System.out.println("hi guys")
         System.out.println("Hi, Rafael is here");
+        System.out.println("Hi, Tamiris here, late but here);
 <<<<<<< Updated upstream
         System.out.println("Hi,is everyone here?")
         thayeneMethod();

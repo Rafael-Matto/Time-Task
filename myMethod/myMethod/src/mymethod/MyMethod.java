@@ -74,6 +74,7 @@ public class MyMethod {
            
            System.out.println("His age has to be a number only.");
     }
+            Nationality();
             status();
             
             //Calling this method to input the closing sentence of this program.

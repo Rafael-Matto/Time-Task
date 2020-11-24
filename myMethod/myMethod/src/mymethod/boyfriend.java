@@ -153,6 +153,29 @@ public class boyfriend {
         } 
          return 0;
      }
+          static void measureOfBmi() {
+         /**
+        * @author: Erick Zumba
+        * Student number: 2020324
+        */
+         
+      //this command will calculed Body mass index
+          int weight;
+          double bmi,height;
+          Scanner input = new Scanner(System.in); 
+          System.out.println("Please enter your height in metric: ");         
+          height = Double.parseDouble(input.nextLine()); 
+          
+          System.out.println("Please enter your Weight in Kg: ");
+          weight = Integer.parseInt(input.nextLine());
+          height = (height/100);
+          
+          bmi =  weight/(height *height);
+         
+          DecimalFormat df = new DecimalFormat();
+            df.setMaximumFractionDigits(2);
+            System.out.println("Your body mass is: "+df.format(bmi));
+      }
       public static void closure(){
        
        System.out.println("And that's a little bit of my story...\nTo be continued!");

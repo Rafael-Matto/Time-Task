@@ -102,6 +102,29 @@ public class boyfriend {
        
        System.out.println("Please, tell us the story of your very first relationship.\n");
    }
+    static void Nationality (){
+       
+       /**
+        * @author: Rafael Matos
+        * Student number: 2020345
+        */
+      Scanner myKB = new Scanner(System.in);
+      
+      String country;
+      
+      try{
+        System.out.println("Where is he from?");
+        country = myKB.nextLine();
+        
+        if (country.matches("[a-zA-Z]+")){
+            System.out.println("He is from " + country + ".\n");
+        }
+        else{
+            System.out.println("This is not a country.");
+        }
+      }catch (Exception e){
+       
+       }
    static int status() {
          /**
      * author: Marco dos Santos

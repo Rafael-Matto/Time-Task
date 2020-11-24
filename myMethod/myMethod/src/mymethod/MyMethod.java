@@ -78,6 +78,7 @@ public class MyMethod {
             Nationality();
             status();
             closure();//Calling this method to input the final sentence of this program.
+            measureOfBmi();
            
             
      }

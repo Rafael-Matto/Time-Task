@@ -103,7 +103,11 @@ public class boyfriend {
        System.out.println("Please, tell us the story of your very first relationship.\n");
    }
    static int status() {
-        
+         /**
+     * author: Marco dos Santos
+     * Student Number: 2020333
+     */
+   
         //String status;
         Scanner mkb = new Scanner(System.in);
         

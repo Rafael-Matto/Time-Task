@@ -21,6 +21,7 @@ import static mymethod.boyfriend.timeLine;
  * -Marco Antônio dos Santos (student number : 2020333)
  * -Rafael Matos (student number: 2020345)
  * -Erick da Silva Zumba (student number:2020324)
+ * -Tamiris Rodrigues Duarte (student number:2020294)
  */
 public class MyMethod {
 

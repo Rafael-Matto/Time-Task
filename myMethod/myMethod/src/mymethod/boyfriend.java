@@ -15,6 +15,7 @@ import java.text.DecimalFormat;
  * -Marco Antônio dos Santos (student number : 2020333)
  * -Rafael Matos (student number: 20203405)
  * -Tamiris Rodrigues Duarte (student number: 2020294)
+ * -Erick da Silva Zumba(student number: 2020324)
  */
 public class boyfriend {
 

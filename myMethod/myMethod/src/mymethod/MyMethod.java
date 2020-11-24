@@ -76,10 +76,10 @@ public class MyMethod {
            System.out.println("His age has to be a number only.");
     }
            
-            Nationality();
+            nationality();
             status();
-            measureOfBmi();
             timeLine();
+            measureOfBmi();
             closure();//Calling this method to input the final sentence of this program.
             
            

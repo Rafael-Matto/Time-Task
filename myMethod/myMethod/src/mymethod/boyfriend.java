@@ -100,7 +100,7 @@ public class boyfriend {
    }
          
     
-    static void Nationality (){
+    static void nationality (){
        
        /**
         * @author: Rafael Matos

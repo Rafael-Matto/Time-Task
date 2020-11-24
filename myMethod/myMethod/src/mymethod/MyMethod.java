@@ -19,6 +19,7 @@ import static mymethod.boyfriend.measureOfBmi;
  * -Thayene Lorens (student number : 2020293)
  * -Marco Antônio dos Santos (student number : 2020333)
  * -Rafael Matos (student number: 2020345)
+ * -Erick da Silva Zumba (student number:2020324)
  */
 public class MyMethod {
 

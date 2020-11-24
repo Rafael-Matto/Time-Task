@@ -6,6 +6,7 @@
 package mymethod;
 
 import java.util.Scanner;
+import java.text.DecimalFormat;
 
 /**
  * @author Group s - Shamrock

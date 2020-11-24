@@ -10,6 +10,7 @@ import static mymethod.boyfriend.Nationality;
 import static mymethod.boyfriend.closure;
 import static mymethod.boyfriend.introduction;
 import static mymethod.boyfriend.status;
+import static mymethod.boyfriend.measureOfBmi;
 
 /**
  *
@@ -50,7 +51,7 @@ public class MyMethod {
            word = input.nextLine();
            
        }
-           //It gets the word that was input and set it equals to boyName.
+           //This method gets the 'word' that was input and set it equals to boyName.
            bf.setName(word); 
            
            //Calling this method so the sentence can be output.
@@ -73,6 +74,7 @@ public class MyMethod {
            
            System.out.println("His age has to be a number only.");
     }
+            //Calling this method to input the closing sentence of this program.
             closure();
      }
     } 

@@ -13,7 +13,8 @@ import java.text.DecimalFormat;
  * Participants:
  * -Thayene Lorens (student number : 2020293)
  * -Marco Antônio dos Santos (student number : 2020333)
- * -Rafael Matos (student number: 2020345)
+ * -Rafael Matos (student number: 20203405)
+ * -Tamiris Rodrigues Duarte (student number: 2020294)
  */
 public class boyfriend {
 
@@ -176,6 +177,39 @@ public class boyfriend {
             df.setMaximumFractionDigits(2);
             System.out.println("Your body mass is: "+df.format(bmi));
       }
+         
+     static void timeLine(){    
+          /**
+        * @author: Tamiris Rodrigues Duarte
+        * Student number: 2020294
+        */
+         Scanner input = new Scanner(System.in); 
+         int time;
+         System.out.println("How many years were you together? ");
+        //to check how long the relationship lasted  
+         try {
+             time = input.nextInt();
+            if (time <=0) {
+                System.out.println("Only a few months then!");
+            }
+            else if (time > 1 && time <= 3) {
+                System.out.println("That's a good time!");
+            }
+            else if (time > 4 && time <=10){
+                System.out.println("Wow! That's a long time!");
+            }
+            else if (time > 11 && time <=30){
+                System.out.println("That's marriage!");
+            }
+            else {
+                System.out.println("A lifetime together!");
+            }
+           //in case some caracther that is not a number be added  
+         }catch (Exception e) {
+                 System.out.println("I believe that's not a number.");
+                 }           
+         }   
+         
       public static void closure(){
        
        System.out.println("And that's a little bit of my story...\nTo be continued!");

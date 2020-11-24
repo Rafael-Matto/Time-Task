@@ -103,7 +103,7 @@ public class boyfriend {
        System.out.println("Please, tell us the story of your very first relationship.\n");
    }
    static int status() {
-        // TODO code application logic here
+        
         //String status;
         Scanner mkb = new Scanner(System.in);
         

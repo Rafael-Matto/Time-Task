@@ -74,11 +74,9 @@ public class MyMethod {
            
            System.out.println("His age has to be a number only.");
     }
-<<<<<<< HEAD
             status();
-=======
+            
             //Calling this method to input the closing sentence of this program.
->>>>>>> afc3ff8b5df75d3a817074783c86708929517d75
             closure();
             
      }

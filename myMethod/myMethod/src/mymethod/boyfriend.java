@@ -93,11 +93,21 @@ public class boyfriend {
     }
         
    public static void introduction(){
+
+    /**
+     * author: Thayene Lorens
+     * Student Number: 2020293
+     */
        
        System.out.println("Please, tell us the story of your very first relationship.\n");
    }
    
      public static void closure(){
+    
+    /**
+     * author: Thayene Lorens
+     * Student Number: 2020293
+     */
        
        System.out.println("And that's a little bit of my story...\nTo be continued!");
    }

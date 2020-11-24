@@ -15,7 +15,7 @@ import java.util.Scanner;
  * -Rafael Matos (student number: 2020345)
  */
 public class boyfriend {
-       
+         
     String boyName;
     
     public void setName (String name){
@@ -96,12 +96,10 @@ public class boyfriend {
        
        System.out.println("Please, tell us the story of your very first relationship.\n");
    }
-  
-     }
-    private boolean inputhasNextLine() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-    
-   }
-}
    
+     public static void closure(){
+       
+       System.out.println("And that's a little bit of my story...\nTo be continued!");
+   }
+       }
+     }

@@ -73,7 +73,7 @@ public class MyMethod {
            
            System.out.println("His age has to be a number only.");
     }
-               
+            closure();
      }
     } 
 

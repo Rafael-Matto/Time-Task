@@ -101,7 +101,33 @@ public class boyfriend {
        
        System.out.println("Please, tell us the story of your very first relationship.\n");
    }
-   
+   static int status() {
+        // TODO code application logic here
+        //String status;
+        Scanner mkb = new Scanner(System.in);
+        
+        System.out.println("What is your marital status? please choose: 1 single, 2 married, 3 divorced and 4 if you prefer not to say");
+        int status = mkb.nextInt();
+        
+      
+        switch(status){
+            case 1:
+                System.out.println("Single\n");   
+            break;
+            case 2:
+                System.out.println("Married\n");   
+            break;
+            case 3:
+                System.out.println("Divorced\n");   
+            break;
+            default:
+                System.out.println("I prefer not to say\n");  
+                
+           // return age; 
+        
+        } 
+         return 0;
+     }
      public static void closure(){
     
     /**

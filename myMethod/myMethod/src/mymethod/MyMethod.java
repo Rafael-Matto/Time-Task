@@ -11,6 +11,7 @@ import static mymethod.boyfriend.closure;
 import static mymethod.boyfriend.introduction;
 import static mymethod.boyfriend.status;
 import static mymethod.boyfriend.measureOfBmi;
+import static mymethod.boyfriend.timeLine;
 
 /**
  *

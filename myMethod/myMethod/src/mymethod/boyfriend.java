@@ -126,7 +126,7 @@ public class boyfriend {
        }
    static int status() {
          /**
-     * author: Marco dos Santos
+     * author: Marco dos 
      * Student Number: 2020333
      */
    
